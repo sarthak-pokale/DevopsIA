@@ -1,3 +1,4 @@
+#DevopsIA
 16010122146 Sarthak Pokale Batch-C1
 
 This project demonstrates how to automate API testing using Postman Collections with GitHub Actions. The collection file, API Testing.postman_collection.json, is executed in the CI pipeline whenever changes are pushed to the main branch or a pull request is opened. The automation uses Newman, the Postman CLI tool, to run the tests and display results directly in the GitHub Actions logs.
